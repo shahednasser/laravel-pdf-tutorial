@@ -1,6 +1,6 @@
 # Create PDF with Laravel
 
-Code for Create PDF with Laravel tutorial.
+Code for [Create PDF in Laravel Tutorial](https://blog.shahednasser.com/create-pdf-in-laravel-tutorial/).
 
 ## Installation
 
